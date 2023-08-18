@@ -1,2 +1,2 @@
-# test_repo
+# intro_to_python
 for testing
